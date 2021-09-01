@@ -4,12 +4,7 @@ Being a harry potter fan I always had a childhood fantasy of using an invisible 
 using simple image processing tricks I can now actually fulfil my childhood fantasy. 
 This [code](AR_invisibility_Cloak.py) turns a `red` colour thing into an invisible thing , but you should use a cloth for real fun.
 
->- It's a fun application which you will enjoy using.
->- You can learn some key functions of opencv from this project. 
->- Refer a detailed [Tutorial](Tutorial.md) explaining the [code](AR_invisibility_Cloak.py).
-
 ---
-
 
 
 ## Installation:
