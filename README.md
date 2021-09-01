@@ -2,7 +2,7 @@
 
 Being a harry potter fan I always had a childhood fantasy of using an invisible cloak. Well it turns out that 
 using simple image processing tricks I can now actually fulfil my childhood fantasy. 
-This [code](AR_invisibility_Cloak.py) turns a `red` colour thing into an invisible thing , but you should use a cloth for real fun.
+This [code](invisible_cloak.py) turns a `red` colour thing into an invisible thing , but you should use a cloth for real fun.
 
 ---
 
